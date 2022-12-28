@@ -1,1 +1,1 @@
-# slider.gitgub.io
+# slider.github.io
